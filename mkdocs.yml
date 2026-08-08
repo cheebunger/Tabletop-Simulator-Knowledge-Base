@@ -45,7 +45,7 @@ markdown_extensions:
       permalink: true
 
 repo_name: 'GitHub Source'
-repo_url: 'https://github.com/Berserk-Games/Tabletop-Simulator-Knowledge-Base'
+repo_url: 'https://github.com/cheebunger/Tabletop-Simulator-Knowledge-Base'
 
 extra:
   social:
